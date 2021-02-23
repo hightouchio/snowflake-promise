@@ -29,6 +29,6 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "snowflake-sdk": "^1.5.2"
+    "snowflake-sdk": "git+https://github.com/hightouchio/snowflake-connector-nodejs.git"
   }
 }
